@@ -1,0 +1,35 @@
+{
+  "name": "gulp-maven-war-deployment",
+  "version": "1.0.0",
+  "description": "This will do Maven Build, generate WAR file and deploy the WAR file to JBoss Deployment folder.",
+  "author": "Muthu Kumaran <emailmkumaran@gmail.com>",
+  "keywords": [
+    "gulp",
+    "maven",
+    "war",
+    "jboss",
+    "deployment",
+    "watch",
+    "build"
+  ],
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muthu Kumaran",
+  "license": "Unlicense",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "maven": "^4.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamkumaran/gulp-maven-war-deployment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkumaran/gulp-maven-war-deployment.git"
+  },
+  "homepage": "https://github.com/iamkumaran/gulp-maven-war-deployment#readme"
+}
